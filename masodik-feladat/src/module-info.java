@@ -1,0 +1,3 @@
+module masodikfeladat {
+    exports feladat;
+}
